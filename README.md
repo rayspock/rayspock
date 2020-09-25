@@ -2,7 +2,6 @@
 
 A passionate self-taught developer from Taiwan.
 
-- 🔭 I’m currently working on my project [Neptune Dictionary](https://github.com/rayspock/neptune-go)
 - 🌱 I'm currently diving into Golang through hands on experience.
 - 💬 Ask me about anything [here](https://github.com/rayspock/rayspock/issues)
 
