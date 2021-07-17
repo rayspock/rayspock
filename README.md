@@ -1,4 +1,4 @@
-### Hi there, I'm [Ray](https://rayspock.com)🖖
+### Hi there, I'm [Ray](https://rayspock.com/page/about/)🖖
 
 A passionate self-taught developer from Taiwan🇹🇼.
 
