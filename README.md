@@ -3,7 +3,8 @@
 A passionate self-taught developer from Taiwan🇹🇼.
 
 - 🌱 Loving to solve the challenging stuff. Moving toward the excelling Hacker.
-- 💬 Ask me about anything [here](https://github.com/rayspock/rayspock/issues)
+- 👨🏽‍💻 Check out [my blog](https://blog.rayspock.com).
+- 💬 Ask me about anything [here](https://github.com/rayspock/rayspock/issues).
 
 **Languages and Tools:**  
 
