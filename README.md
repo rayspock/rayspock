@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ray](https://rayspock.com/page/about/)🖖
 
-A passionate software engineer originally from Taiwan🇹🇼.
+I'm a tech enthusiast with a strong background in crafting microservices and supercharged distributed systems in the cloud. My go-to strategy? Leveraging event-driven architecture for seamless and scalable solutions. Let's collaborate and code our way to next-level success! 🚀
 
 - 📍 London, UK
 - 🤖 Golang enthusiast
